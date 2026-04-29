@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBxd2Ny34dY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asuha\\Desktop\\Challenge-project-branching-looping-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asuha\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\asuha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\asuha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\asuha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
